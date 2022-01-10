@@ -1,0 +1,16 @@
+shape: (5, 4)
+┌───────┬───────────────────┬───────────────┬────────────────────┐
+│ state ┆ youngest          ┆ oldest        ┆ alphabetical_first │
+│ ---   ┆ ---               ┆ ---           ┆ ---                │
+│ cat   ┆ str               ┆ str           ┆ str                │
+╞═══════╪═══════════════════╪═══════════════╪════════════════════╡
+│ WY    ┆ Stephen Nuckolls  ┆ Barbara Cubin ┆ Alan Simpson       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ OK    ┆ David Harvey      ┆ Kendra Horn   ┆ Alice Robertson    │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ PA    ┆ Thomas Fitzsimons ┆ Ryan Costello ┆ Aaron Kreider      │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ CO    ┆ Allen Bradford    ┆ Jared Polis   ┆ Allen Bradford     │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ TX    ┆ John Cranford     ┆ Will Hurd     ┆ Abraham Kazen      │
+└───────┴───────────────────┴───────────────┴────────────────────┘
